@@ -1,0 +1,2 @@
+Selenium==3.11.0 
+Webdriver==3.9.0 
